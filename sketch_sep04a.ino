@@ -23,7 +23,7 @@ delay(800); // LED remains off for 0.8 seconds
 void loop() {
 /*
 
-My name in Morse's code is as follows: -
+My name in Morse's code is: -
 
 M __
 
@@ -42,29 +42,29 @@ R ._.
 // M__
 Dash();
 Dash();
-delay(1500); // Delay of 0.6 seconds is kept for user's convenience as it makes interpretting individual alphabets easier.
+delay(1500); 
 
 // I..
 Dot();
 Dot();
-delay(1500); // The gap between dit and dah is 0.2 seconds.
+delay(1500); 
 
 // H....
 Dot();
 Dot();
 Dot();
-delay(1500); // Delay of 0.6 seconds is kept for user's convenience as it makes interpretting individual alphabets easier.
+delay(1500); 
 
 // I..
 Dot();
 Dot();
-delay(1500); // Delay of 0.6 seconds is kept for user's convenience as it makes interpretting individual alphabets easier.
+delay(1500); 
 
 // R ._.
 Dot();
 Dash();
 Dot();
-delay(1500); // Delay of 0.6 seconds is kept for user's convenience as it makes interpretting individual alphabets easier.
+delay(1500); 
 
 
 }
